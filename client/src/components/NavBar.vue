@@ -8,7 +8,7 @@
           text-decoration: none"
           to="/shop"
         >
-          Купи Девайс
+          Test shop
         </RouterLink>
         <RouterLink
           v-else
@@ -16,7 +16,7 @@
           text-decoration: none"
           to="/login"
         >
-          Купи Девайс
+          Test shop
         </RouterLink>
       </a>
       <div class="collapse navbar-collapse justify-content-end" id="navbarScroll">
