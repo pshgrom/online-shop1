@@ -24,7 +24,7 @@
       <div class="col col-4">
         <div
           class="card d-flex align-items-center justify-content-center"
-          style="width: 300px; height: 300px; font-size: 32px; border: 5px solid lightgray; background: red"
+          style="width: 300px; height: 300px; font-size: 32px; border: 5px solid lightgray;"
         >
           <h3>От: {{ device.price }} руб.</h3>
           <button class="btn btn-outline-dark" type="button">
