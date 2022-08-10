@@ -1,0 +1,11 @@
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
+export const SET_AUTH = 'SET_AUTH';
+export const SET_TYPES = 'SET_TYPES';
+export const SET_BRANDS = 'SET_BRANDS';
+export const SET_DEVICES = 'SET_DEVICES';
+export const SET_SELECTED_TYPE = 'SET_SELECTED_TYPE';
+export const SET_SELECTED_BRAND = 'SET_SELECTED_BRAND';
+export const SET_LIMIT = 'SET_LIMIT';
+export const SET_TOTAL_COUNT = 'SET_TOTAL_COUNT';
+export const SET_PAGE = 'SET_PAGE';
+export const LOGOUT = 'LOGOUT';
