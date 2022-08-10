@@ -28,7 +28,7 @@ export default {
         await store.dispatch('setAuth', true)
         await store.dispatch('setCurrentUser', data)
       } catch (e) {
-        alert(e.response.data.message)
+        alert(e.response?.data?.message)
         router.push('/login').then(r => r)
       } finally {
         loading.value = false
